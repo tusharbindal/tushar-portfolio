@@ -1,5 +1,5 @@
 import { Container } from "./styles";
-import profileImg from "../../assets/profile.png";
+import profileImg from "../../assets/profile2.png";
 
 // ✅ React Icons
 import { FaPhp, FaLaravel, FaHtml5, FaCss3Alt, FaBootstrap } from "react-icons/fa";
